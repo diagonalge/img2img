@@ -1,0 +1,5 @@
+{
+    "baddream": "./embeddings/baddream.pt",
+    "fastneg": "./embeddings/fastneg.pt",
+    "easyneg": "./embeddings/easyneg.pt"
+}
